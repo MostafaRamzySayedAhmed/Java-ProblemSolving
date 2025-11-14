@@ -1,2 +1,2 @@
 # Java Problem Solving
-Competitive Programming Using Java.
+Competitive Programming Using Java
